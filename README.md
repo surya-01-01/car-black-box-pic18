@@ -23,6 +23,12 @@ This project implements a real-time black box for vehicles using the PIC18F4580 
 
 ---
 
-## 🗂️ Structure
+## 📌 Usage
+
+1. Compile with MPLAB
+2. Flash to PIC18 using a compatible programmer
+3. Observe real-time logs on serial monitor
+
+
 
 
