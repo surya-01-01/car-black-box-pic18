@@ -1,2 +1,2 @@
 # car-black-box-pic18
-A real-time car black box system built with PIC18F4580. Logs vehicle data during critical events using timers, interrupts, and used I2C and UART communication. Designed to help in post-accident analysis by capturing sensor values and storing them securely.
+Developed a real-time event logging system using PIC18F4580 microcontroller and Embedded C. Utilized peripherals like Timers, UART, and Interrupts to log critical data during vehicle incidents. Enabled fault analysis by storing sensor readings and timestamps in memory. Simulated crash events and verified data capture accuracy using Linux-based development tools
